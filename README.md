@@ -1,7 +1,7 @@
 <h1 align="center"> RealLinks </h1>
 
 <p align="center">
-Inspirado no projeto DevLinks, o projeto RealLinks foi criado através de um programa exclusivo e gratuito, intitulado de Discover, promovido pela <br>Rocketseat para ensino de tecnologias WEB. <br/>
+Inspirado no projeto DevLinks, o projeto RealLinks foi criado através de um programa exclusivo e gratuito, intitulado de Discover, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
